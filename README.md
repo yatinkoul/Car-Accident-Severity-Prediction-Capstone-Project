@@ -61,5 +61,5 @@ Discussion section where you discuss any observations you noted and any recommen
 
 Conclusion section where you conclude the report.
 
-This report provides a good insight for someone who is looking into the US accident statistics. However, it may not cover all variables, therefore it shall not be used as a single decidion making tool._**
+**_This report provides a good insight for someone who is looking into the US accident statistics. However, it may not cover all variables, therefore it shall not be used as a single decidion making tool._**
 
