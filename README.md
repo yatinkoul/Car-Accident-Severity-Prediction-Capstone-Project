@@ -19,12 +19,20 @@ solve or execute. Remember that data science problems always target an audience 
 stakeholders solve a problem, so make sure that you explicitly describe your audience and why they would care about 
 your problem.
 
+**_The idea of this project is to analyze the severity of an accident in the United States of America. The main objective of this capstone project is to engineer a predicting model using Machine Learning techniques in order to predict the accident severity in the US._** 
+
+**_Problem Statement: What is the magnitude of severity for an accident that occurs in USA?_**
 
 ## 2) Downloading and Prepping Data
 
 Describe the data that you will be using to solve the problem or execute your idea. Remember that you will need to use 
 the Foursquare location data to solve the problem or execute your idea.
 
+**_This is a countrywide car accident dataset, which covers 49 states of the USA. The accident data are collected from February 2016 to June 2020, using two APIs that provide streaming traffic incident (or event) data. These APIs broadcast traffic data captured by a variety of entities, such as the US and state departments of transportation, law enforcement agencies, traffic cameras, and traffic sensors within the road-networks. Currently, there are about 3.5 million accident records in this dataset._**
+
+**_The data is taken from : https://www.kaggle.com/sobhanmoosavi/us-accidents_**
+
+**_This dataset has been collected in real-time, using multiple Traffic APIs. Currently, it contains accident data that are collected from February 2016 to June 2020 for the Contiguous United States._**
 
 
 ## 3) Methodology
