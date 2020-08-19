@@ -40,17 +40,26 @@ the Foursquare location data to solve the problem or execute your idea.
 Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis
 that you did, any inferential statistical testing that you performed, and what machine learnings were used and why.
 
+**_This project uses EDA for understanding, cleaning and feature engineering. The modelling is done using Regression Analysis._**
+
 
 ## 4) Results
 
 Results section where you discuss the results.
+
+ **_In the first try, model gets a score of 0.677706562842121, which is good.The model did a good job in identifing Severity 2 but not Severity 3._**
 
 
 ## 5) Discussion
 
 Discussion section where you discuss any observations you noted and any recommendations you can make based on the results.
 
+**_The model did a good job in identifing Severity 2 but not Severity 3._**
+
 
 ## 6) Conclusion
 
 Conclusion section where you conclude the report.
+
+This report provides a good insight for someone who is looking into the US accident statistics. However, it may not cover all variables, therefore it shall not be used as a single decidion making tool._**
+
